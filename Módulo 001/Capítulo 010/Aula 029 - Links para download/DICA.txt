@@ -1,0 +1,6 @@
+Dentro da tag do link <a> existe um parâmetro chamado 'type', que
+indica o tipo de arquivo irá ser baixado. Fique sempre atento
+aos tipos de arquivos!
+
+* NESTE SITE VOCÊ CONSEGUER VER TODAS AS RELAÇÕES DE TIPOS DE ARQUIVOS *
+https://www.iana.org/assignments/media-types/media-types.xhtml

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste De Responsividade</title>
+    <style>
+        body {
+            background-color: gray;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        main {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            line-height: 2em;
+
+            /* DICAS PARA RESPONSIVIDADE BÁSICA:
+                - max-width
+                - min-width
+                - margin: auto;
+                - picture e source
+            */
+
+            max-width: 800px;
+            min-width: 320px;
+            margin: auto;
+        }
+
+        img {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <h1>Teste De Responsividade</h1>
+
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus culpa, cupiditate doloribus facilis architecto doloremque explicabo quibusdam voluptate ex provident vero quasi, accusamus impedit maiores sed consequatur voluptas esse nulla. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sapiente, molestiae temporibus dolorum soluta cupiditate fugit et veritatis, rerum assumenda, voluptatem aut obcaecati ut ea a quibusdam expedita? Ad, vel accusamus! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta aperiam rem vero ipsa consequuntur labore! Obcaecati excepturi tempore quasi voluptas, velit quos possimus suscipit eligendi doloremque corporis consectetur cumque eos.</p>
+
+        <picture>
+            <source media="(max-width: 600px)" srcset="irina-blok-pq.jpg">
+            <img src="irina-blok.jpg" alt="">
+        </picture>
+
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus culpa, cupiditate doloribus facilis architecto doloremque explicabo quibusdam voluptate ex provident vero quasi, accusamus impedit maiores sed consequatur voluptas esse nulla. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sapiente, molestiae temporibus dolorum soluta cupiditate fugit et veritatis, rerum assumenda, voluptatem aut obcaecati ut ea a quibusdam expedita? Ad, vel accusamus! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta aperiam rem vero ipsa consequuntur labore! Obcaecati excepturi tempore quasi voluptas, velit quos possimus suscipit eligendi doloremque corporis consectetur cumque eos.</p>
+
+    </main>
+
+</body>
+</html>

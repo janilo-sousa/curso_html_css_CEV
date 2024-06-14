@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Representando cores com css3</title>
+    <style>
+        h1 {
+            /* SISTEMA HEXADECIMAL
+            0 1 2 3 4 5 6 7 8 9
+            A B C D E F (16 algarismo)
+
+            0 -> valor mínimo
+            f -> valor máximo
+
+            o primeiro par de algarismo -> vermelho
+            o segundo par de algarismo -> verde
+            o segundo par de algarismo -> azul
+            */
+            color: #0000ff;
+        }
+
+        p {
+            /* SISTEMA RGB (red, green, blue)
+            0 -> valor mínimo
+            255 -> valor máximo
+            */
+            color: rgb(255, 0, 0);
+        }
+
+        h2 {
+            /* SISTEMA HSL
+            h -> hue (matiz)
+            s -> saturation (saturação)
+            l -> lightnes (luminosidade)
+            */
+            color: hsl(120, 100%, 25%);
+        }
+
+        ul {
+            color: orange; /* palavra chave */
+        }
+
+        h3 {
+            color: rgba(255, 0, 0, 0.281); /* canal alfa */
+        }
+    </style>
+</head>
+<body>
+    <h1>Um Título Qualquer</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio, neque enim odit vitae exercitationem tenetur nam nemo quod iste officia modi aperiam architecto quam, molestias quisquam! Ex ipsam alias provident.</p>
+
+    <h2>Um Título Qualquer</h2>
+    <ul>
+        <li>Item 1</li>
+        <li>Item 1</li>
+        <li>Item 1</li>
+        <li>Item 1</li>
+    </ul>
+    <h3>Canal Alfa: Mexendo Na Transparência Da Cor</h3>
+</body>
+</html>

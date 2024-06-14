@@ -1,0 +1,69 @@
+* CURSO DE HTML5 E CSS3 DO CURSO EM VÍDEO COM O PROFESSOR GUSTAVO GUANABARA *
+
+* MÓDULO 1 DE 5 *
+AULA 001: Começa aqui o curso
+AULA 002: O que vamos aprender no módulo 01?
+
+* CAPÍTULO 01 *
+AULA 003: Prescisamos fazer um acordo
+AULA 004: Será que este curso é para mim?
+AULA 005: Melhores livros para aprender HTML5 e CSS3
+AULA 006: Como a internet chega no minha casa?
+
+* CAPÍTULO 02 *
+AULA 007: Como a internet funciona?
+AULA 008: O que é domínio e hospedagem?
+
+* CAPÍTULO 03 *
+AULA 009: A diferença entre HTML, CSS e JavaScript
+AULA 010: Front-end, back-end e full-stack
+
+* CAPÍTULO 04 *
+AULA 011: Instalando todas as ferramentas
+AULA 012: Seu primeiro código HTML
+
+* CAPÍTULO 05 *
+AULA 013: Parágrafos e quebras de linha
+AULA 014: Símbolos e emojis no seu site
+
+* CAPÍTULO 06 *
+AULA 015: Você tem o direito de usar qualquer imagem no seu site?
+AULA 016: Quais são os formatos para imagens na web?
+AULA 017: O tamanho das imagens importa para um site?
+AULA 018: A tag img em HTML5
+AULA 019: Como mudar o favicon de um site
+
+* CAPÍTULO 07 *
+AULA 020: Hierarquia de títulos
+
+* CAPÍTULO 08 *
+AULA 021: Semântica na HTML5 é importante
+AULA 022: Negrito e itálico do jeito certo
+AULA 023: Formatações adicionais em HTML
+AULA 024: Citações e códigos
+
+* CAPÍTULO 09 *
+AULA 025: Listas OL e UL
+AULA 026: Listas mistas e de definição
+
+* CAPÍTULO 10 *
+AULA 027: Links e âncoras em HTML5
+AULA 028: Links internos
+AULA 029: Links para download
+AULA 030: Desafios propostos
+
+* CAPÍTULO 11 *
+AULA 031: Imagens dinâmicas
+AULA 032: Imagens que se adaptam sozinhas
+AULA 033: Colocando áudio no seu site
+AULA 034: Formato de vídeo para seu site
+AULA 035: Vídeos em hospedagem própria
+AULA 036: Incorporação de vídeos externos
+AULA 037: Desafio do site com vídeos
+
+* CAPÍTULO 12 *
+AULA 038: Estilos CSS inline
+AULA 039: Estilos CSS internos
+AULA 040: Estilos CSS externos
+
+AULA 041: Fim do módulo 1: Certificados liberados

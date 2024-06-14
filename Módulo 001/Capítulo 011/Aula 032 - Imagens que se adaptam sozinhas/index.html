@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagens que se adaptam sozinhas</title>
+</head>
+<body>
+    <picture>
+        <!--
+        DICA: você pode ler assim ... 
+            - de 0px até 750px mostre a imagem pequena
+            - de 750px até 1050px mostre a imagem média
+            - de 1050px pra cima mostre a imagem grande
+        -->
+        <source media="(max-width: 750px)" srcset="img-p.jpg">
+        <source media="(max-width: 1050px)" srcset="img-m.jpg">
+        <img src="img-g.jpg" alt="">
+    </picture>
+</body>
+</html>

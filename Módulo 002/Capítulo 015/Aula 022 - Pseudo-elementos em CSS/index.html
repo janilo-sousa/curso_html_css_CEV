@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pseudo-Elementos Em CSS</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        p {
+            font-size: 20px;
+        }
+
+        a::after {
+            content: " ←";
+        }
+
+        a::before {
+            content: "→ ";
+        }
+    </style>
+</head>
+<body>
+    <h1>Pseudo-Elementos Em CSS</h1>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae quasi fugiat blanditiis odit at soluta, rem delectus, consequuntur, natus dignissimos ipsam? Cumque asperiores nemo explicabo, <a href="">fugiat</a> nobis necessitatibus ut ipsum! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores hic exercitationem, vel accusantium quis perferendis molestias recusandae, repellendus velit quo voluptate, adipisci ratione. Est, ut? Minus <a href="">dolorum</a> suscipit quidem quae. Lorem ipsum, dolor sit amet consectetur adipisicing elit. <a href="">Necessitatibus</a>, consectetur iure tenetur tempore sint quis et ducimus omnis at ullam quibusdam quo sed cum ipsum. Repellendus unde deserunt vitae quasi?</p>
+
+    <p style="color: red;">Os pseudo-elementos estão relacionados com conteúdos periféricos ao seu conteúdo no HTML definitivamente escritos.</p>
+</body>
+</html>

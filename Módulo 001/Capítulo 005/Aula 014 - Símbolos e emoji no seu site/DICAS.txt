@@ -1,0 +1,2 @@
+https://emojipedia.org/ (para conseguir UNICODES de emojis)
+https://www.w3schools.com/html/html_entities.asp (para conseguir códigos de símbolos)

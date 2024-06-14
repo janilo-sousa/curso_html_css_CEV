@@ -1,0 +1,9 @@
+Você pode estar navegando pela web e acabar achando uma fonte que chame seu interesse mas ela está dentro
+de uma imagem, logo a extensão Fonts Ninja não irá funcionar. Para isso existem alguns site que lhe ajudam
+a identificar de que fonte se trata, elas estando em formato de imagem. Confira:
+
+https://www.whatfontis.com/
+
+https://www.fontsquirrel.com/
+
+https://www.myfonts.com/

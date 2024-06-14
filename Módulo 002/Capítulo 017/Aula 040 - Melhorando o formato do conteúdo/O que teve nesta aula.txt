@@ -1,0 +1,2 @@
+Nesta aula o professor fez alguns ajustes no conteúdo do main, como nos links, h1, h2, nos parágrafos
+e palavras de destaque strong.

@@ -1,0 +1,10 @@
+A -> um glifo (um caracter/letra isolado)
+Times New Roman -> fonte (um conjunto de caracteres/letras)
+light, normal, semibold, bold, extrabold -> família tipográfica (espessura das letras)
+
+* CATEGORIAS DE FONTES *
+	- serifadas
+	- sans-serif
+	- monoespaçadas
+	- handwriting
+	- display

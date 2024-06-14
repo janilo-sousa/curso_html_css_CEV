@@ -1,0 +1,7 @@
+Nesta aula o professor adicionou os títulos,
+os parágrafos,
+os itens da lista e suas abreviações,
+palavras de destaque com a tag <strong>,
+os links externos,
+as imagens
+e o vídeo.

@@ -1,0 +1,4 @@
+* DICAS DE SITE PARA VOCÊ CONSEGUIR FAVICONS *
+- https://www.iconarchive.com/ (favicons de uso livre)
+- https://www.favicon.cc/ (desenho o seu próprio favicon)
+- https://favicon.io/ (converter ou criar seu favicon)

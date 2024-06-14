@@ -1,0 +1,2 @@
+Nessa aula o professor aplicou as técnicas vista na aula passada no site do Android para deixar
+o conteúdo, as imagens e a caixa do conteúdo responsivo.

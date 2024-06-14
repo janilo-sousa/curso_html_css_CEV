@@ -1,0 +1,5 @@
+Esse curso é destinado para o aluno que quer desenvolver
+site com as três tecnologias básicas da web,
+html, css e javascript.
+
+* ATENÇÃO: o curso não dá códigos prontos!

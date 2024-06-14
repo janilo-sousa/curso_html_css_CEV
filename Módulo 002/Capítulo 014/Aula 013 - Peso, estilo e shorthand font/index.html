@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Peso, estilo e shorthand font</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+        * {
+            font-family: 'Roboto', sans-serif;
+        }
+
+        p {
+            /* SHORTHAND FONT:
+            font-family: 'Roboto', sans-serif;
+            font-weight: normal;
+            font-size: 20px;
+            font-style: italic;
+
+            font: 1) font-style 2) font-weight 3) font-size 4) font-family;
+            */
+
+            font: italic normal 20px 'Roboto', sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <h1>Peso, estilo e shorthand font</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex reiciendis sequi harum aut! Commodi, aperiam error at esse culpa laborum animi quas minus placeat facilis est dolorem repellendus tempore harum.</p>
+
+    <h2>Peso por palavra</h2>
+    <ul>
+        <li style="font-weight: lighter;">Lighter</li>
+        <li style="font-weight: normal;">Normal</li>
+        <li style="font-weight: bold;">Bold</li>
+        <li style="font-weight: bolder;">Bolder</li>
+    </ul>
+
+    <h2>Peso por números</h2>
+    <ul>
+        <li style="font-weight: 100;">Lighter 100</li>
+        <li style="font-weight: 400;">Normal 400</li>
+        <li style="font-weight: 600;">Bold 600</li>
+        <li style="font-weight: 800;">Bolder 800</li>
+    </ul>
+
+    <h2>Estilo Itálico e Sublinhado</h2>
+    <p style="font-style: italic;">Itálico</p>
+    <p style="text-decoration: underline;">Sublinhado</p>
+</body>
+</html>

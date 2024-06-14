@@ -1,0 +1,3 @@
+As ferramentas necessárias serão:
+- O editor de códigos da Microsoft Visual Studio Code;
+- O navegador da web Google Chrome.

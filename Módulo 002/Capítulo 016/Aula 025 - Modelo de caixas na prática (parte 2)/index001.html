@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modelo de caixas na prática parte 2</title>
+    <style>
+        div#box { /* ELEMENTO BOX-LEVEL */
+            width: 250px;
+            height: 250px;
+            padding: 10px;
+            display: block; /* padrão */
+            margin: 0px 0px 10px 0px; /* NOTE 1: note que o margin do elemento block empurra o elemento inline pelo seu content */
+
+            background-color: red;
+            border: 5px solid green;
+        }
+
+        span#inline { /* ELEMENTO INLINE-LEVEL */
+            padding: 20px; /* NOTE 2: note que o padding de um elemento inline invade o espaço de um elemento block */
+            margin: 100px; /* NOTE 3: note que não existe margin top e bottom para elementos inline */
+            display: inline; /* padrão */
+            border: 5px solid black;
+        }
+    </style>
+</head>
+<body>
+    <div id="box">
+
+    </div>
+    <span id="inline">inline-level</span>
+</body>
+</html>

@@ -1,0 +1,3 @@
+A partir da versão 5 a HTML passou a focar apenas na semântica/
+significado das suas formatações, deixando a estilização dos
+elementos apenas e exclusivamente para as CSS.

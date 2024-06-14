@@ -1,0 +1,4 @@
+Sim, imagens que ocupam bastante espaço de memória vai deixar
+seu site mais lento e prejudicar ele nos mecanismos de pesquisas.
+Lembrando, redimensionar as imagens do seu site não vai fazer
+com que ele ocupe menos espaço de memória!

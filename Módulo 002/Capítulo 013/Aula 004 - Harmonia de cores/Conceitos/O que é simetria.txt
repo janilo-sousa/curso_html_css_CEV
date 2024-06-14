@@ -1,0 +1,40 @@
+No design, a simetria é o uso de elementos equilibrados para criar harmonia e estabilidade visual.
+Ela desempenha um papel crucial em diversas áreas do design, como design gráfico, design de
+interiores, design de produto e web design. Aqui estão alguns aspectos importantes da simetria no design:
+
+1. Simetria Reflexiva (Bilateral): O design é dividido em duas partes iguais por uma linha central,
+e cada lado é um espelho do outro. Esse tipo de simetria é comum em logotipos, layouts de sites e
+design de impressos, proporcionando um senso de ordem e formalidade.
+
+2. Simetria Radial: Os elementos são organizados em torno de um ponto central, irradiando para fora.
+Esse tipo de simetria é frequentemente visto em designs de mandalas, logos e layouts de páginas
+que requerem um ponto focal central.
+
+3. Simetria Translacional: Os elementos são repetidos em intervalos regulares, criando um padrão
+contínuo. Esse tipo de simetria é frequentemente utilizado em design de papel de parede, tecidos
+e gráficos de fundo.
+
+4. Simetria Rotacional: Os elementos são dispostos em torno de um centro de rotação, de modo que o
+design pode ser girado por um certo ângulo e ainda parecer o mesmo. Esse tipo de simetria é comum
+em logos e ícones.
+
+5. Assimetria Balanceada: Embora não seja simetria no sentido estrito, a assimetria balanceada cria
+equilíbrio visual utilizando elementos de diferentes tamanhos, formas e posições. Esse tipo de
+design é dinâmico e interessante, atraindo a atenção e mantendo o interesse visual.
+
+Importância da Simetria no Design
+
+* Estética: A simetria é naturalmente agradável aos olhos humanos. Ela cria um senso de ordem e
+beleza, tornando o design mais atraente.
+
+* Equilíbrio: A simetria ajuda a distribuir o peso visual de maneira uniforme, o que evita que
+o design pareça desordenado ou pesado de um lado.
+
+* Clareza e Leitura: Em design gráfico e web design, a simetria pode melhorar a legibilidade e
+a navegação, guiando o olhar do usuário de forma intuitiva.
+
+* Identidade de Marca: Logotipos simétricos são frequentemente mais memoráveis e facilmente
+reconhecíveis, contribuindo para uma identidade de marca forte.
+
+A aplicação adequada da simetria no design pode resultar em composições visuais atraentes,
+funcionais e eficazes, que comunicam a mensagem desejada de maneira clara e impactante.

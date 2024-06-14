@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shorthands do padding e do margin</title>
+    <style>
+        div#box {
+            background-color: red;
+            display: inline-block;
+
+            width: 250px; /* largura (content) */
+            height: 250px; /* altura (content) */
+            border: 5px solid black; /* border */
+            padding: 50px; /* padding */
+            margin: 20px; /* margin */
+
+            /* ATENTE-SE AOS SHORTHANDS DO PADDING E DO MARGIN */
+            /* versão completa */
+            padding-top: 50px;
+            padding-right: 50px;
+            padding-bottom: 50px;
+            padding-left: 50px;
+
+            padding: 50px 50px 50px 50px; /* na sequência: em cima, direita, em baixo, esquerda */
+            padding: 50px 50px; /* na sequência: em cima e em baixo, esquerda e direita */
+            padding: 50px; /* todas as direções com 50px */
+
+            /* versão completa */
+            margin-top: 20px;
+            margin-right: 20px;
+            margin-bottom: 20px;
+            margin-left: 20px;
+
+            margin: 20px 20px 20px 20px; /* na sequência: em cima, direita, em baixo, esquerda */
+            margin: 20px 20px; /* na sequência: em cima e em baixo, esquerda e direita */
+            margin: 20px; /* todas as direções com 50px */
+        }
+
+        /* PARA MUDAR O TIPO DA CAIXA (DE BLOCK PARA INLINE OU DE INLINE PARA BLOCK):
+            display: block;
+            display: inline;
+            display: inline-block; -> um elemento inline mas podendo ter altura e largura. Tem características tanto de elementos box-level quanto de elementos inline-level (tipo um misto)!
+        */
+    </style>
+</head>
+<body>
+    <h1>Shorthand para o padding e o margin</h1>
+
+    <div id="box">
+
+    </div>
+</body>
+</html>

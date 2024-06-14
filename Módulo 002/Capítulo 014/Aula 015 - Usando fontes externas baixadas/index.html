@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Usando fontes externas baixadas</title>
+    <style>
+        @font-face {
+            font-family: 'Estilizada'; /* apelido, não prescisa ser igual ao nome original da fonte */
+            src: url('Playground.ttf') format('truetype'); /* caminho de aonde está o arquivo da fonte */
+            font-weight: lighter;
+            font-style: normal;
+
+            /* SOBRE OS TIPOS DE format():
+                - otf -> opentype
+                - ttf -> truetype
+            */
+        }
+
+        p {
+            font-family: 'Estilizada', sans-serif;
+            font-size: 50px;
+        }
+    </style>
+</head>
+<body>
+    <p>Usando fontes externas baixadas</p>
+    <p>Você poder usar o site <a href="https://www.dafont.com/pt/" target="_blank" rel="external">dafont.com</a></p>
+</body>
+</html>

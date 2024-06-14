@@ -1,0 +1,5 @@
+Essa extensão do navegador Google Chrome irá ajudar você a capturar cores que por
+ventura você encontre navegando na web, acha bonita e queira saber o código hexadecimal
+dela!
+
+https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=pt-BR

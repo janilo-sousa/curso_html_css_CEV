@@ -1,0 +1,4 @@
+* FORMATOS DE IMAGENS MAIS USADOS NA WEB *
+JPEG -> Qualidade média e ocupa menos espaço
+PNG -> Qualidade boa, aceita transparência e ocupa mais espaço
+GIF -> Qualidade ruim, ocupa menos espaço e aceita animações

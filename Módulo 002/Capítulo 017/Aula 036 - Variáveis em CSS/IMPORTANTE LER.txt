@@ -1,0 +1,3 @@
+Neste aula o professor ensinou como usar variáveis em css, copiou e colou a paleta de cores usada e saiu
+definindo as cores para as principais tags semânticas. Configou as fontes e fez um reset de margin e padding
+de todos os elementos da página.

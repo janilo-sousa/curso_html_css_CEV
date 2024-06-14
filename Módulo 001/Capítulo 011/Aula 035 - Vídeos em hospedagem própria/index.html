@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colocando vídeos em seu site</title>
+</head>
+<body>
+    <h1>Colocando vídeos em seu documento html</h1>
+    <video src="Um Vídeo de Praia.mp4" controls width="500px" poster="poster-praia.png"></video>
+
+    <!-- Da mesma forma que fizemos lá nos áudios, aqui nos vídeos, também podemos usar a tag <source> em conjunto com a tag <video> para tentarmos carregar um vídeo após um outro não deu certo -->
+
+    <video controls width="500px" poster="poster-praia.png">
+        <source src="Um Vídeo de Praia.mp4">
+        <source src="Um Vídeo de Praia.m4v">
+        <source src="Um Vídeo de Praia.webm">
+        <source src="Um Vídeo de Praia.ogv">
+        <p>Desculpe, não foi possível carregar o vídeo. Talvez seu navegador não seja compatível. <a href="Um Vídeo de Praia.mp4" download="Um Vídeo de Praia.mp4" type="video/mp4">Clique aqui para baixa-ló</a></p>
+    </video>
+</body>
+</html>

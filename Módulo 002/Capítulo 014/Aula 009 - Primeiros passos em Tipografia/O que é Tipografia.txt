@@ -1,0 +1,26 @@
+A tipografia é a arte e a técnica de dispor textos, o que inclui a criação, escolha e
+organização de tipos (fontes) para tornar a linguagem escrita legível, atraente e
+esteticamente agradável quando exibida. Ela envolve vários elementos, como:
+
+1. Fontes (Tipografias): O desenho específico das letras e caracteres. Cada fonte tem seu
+próprio estilo e personalidade.
+
+2. Tamanho da fonte: Medido em pontos, afeta a legibilidade e o impacto visual do texto.
+
+3. Espaçamento entre caracteres (Kerning): O ajuste do espaço entre caracteres individuais
+para criar um texto harmonioso.
+
+4. Espaçamento entre linhas (Leading): A distância vertical entre linhas de texto, que
+influencia a legibilidade e o fluxo visual.
+
+5. Comprimento da linha: A largura da linha de texto, que deve ser confortável para leitura.
+
+6. Alinhamento: A disposição do texto dentro de um espaço, que pode ser alinhado à
+esquerda, direita, centralizado ou justificado.
+
+7. Hierarquia tipográfica: O uso de diferentes tamanhos, pesos e estilos de fonte para
+criar uma estrutura visual que guia o leitor através do conteúdo.
+
+A tipografia é essencial em design gráfico, web design, publicidade, e em qualquer
+lugar onde o texto é utilizado, pois uma boa tipografia pode melhorar significativamente
+a experiência de leitura e a comunicação visual.

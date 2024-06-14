@@ -1,0 +1,19 @@
+p {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blue;
+    color: white;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: red;
+    color: white;
+}
+
+img {
+    width: 400px;
+}

@@ -1,0 +1,3 @@
+Nesta aula o professor estilizou o rodapé(footer) e o conteúdo periférico(aside), colocando um símbolo de
+check nos itens da lista e colocando um símbolo de uns elos nos links para indicar ao usuário que leva
+para um site externo.
