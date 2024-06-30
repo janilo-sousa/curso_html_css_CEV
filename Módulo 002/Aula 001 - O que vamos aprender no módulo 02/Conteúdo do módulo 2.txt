@@ -1,0 +1,57 @@
+* CURSO DE HTML5 E CSS3 DO CURSO EM VÍDEO COM O PROFESSOR GUSTAVO GUANABARA *
+* MÓDULO 2 DE 5 *
+
+AULA 001: O que vamos aprender no módulo 02?
+
+* CAPÍTULO 013 *
+AULA 002: Psicologia das cores
+AULA 003: Representando cores com CSS3
+AULA 004: Harmonia de cores
+AULA 005: Paleta de cores
+AULA 006: Como capturar cores da tela?
+AULA 007: Como criar degradê com CSS?
+AULA 008: Criando um exemplo real
+
+* CAPÍTULO 014 *
+AULA 009: Primeiros passos em Tipografia
+AULA 010: Anatomia do tipo
+AULA 011: Famílias de fonte com CSS
+AULA 012: Tamanho de fonte e suas medidas
+AULA 013: Peso, estilo e shorthand font
+AULA 014: Usando Google Fonts
+AULA 015: Usando fontes externas baixadas
+AULA 016: Capturando as fontes usadas em um site
+AULA 017: Detectando fontes dentro de imagens
+AULA 018: Alinhamento de textos com CSS
+
+
+* CAPÍTULO 015 *
+AULA 019: Usando o id com CSS
+AULA 020: As diferenças entre id e class
+AULA 021: Pseudo-classes em CSS
+AULA 022: Pseudo-elementos em CSS
+
+* CAPÍTULO 016 *
+AULA 023: Modelo de Caixas: primeiros passos
+AULA 024: Modelo de Caixas na prática (parte 1)
+AULA 025: Modelo de Caixas na prática (parte 2)
+AULA 026: Grouping Tags em HTML5
+AULA 027: Sombra nas caixas
+AULA 028: Caixas com vértices arredondados
+AULA 029: Bordas decoradas
+AULA 030: DESAFIO do Módulo 2
+
+* CAPÍTULO 017 *
+AULA 031: Criando um projeto a partir do zero
+AULA 032: Navegando pelo projeto pronto
+AULA 033: Planejando a estrutura do seu site
+AULA 034: Transformando o layout em código
+AULA 035: Organizando o conteúdo do site
+AULA 036: Variáveis em CSS
+AULA 037: Responsividade para sites
+AULA 038: Responsividade na prática
+AULA 039: Configurando o header e o menu do site
+AULA 040: Melhorando o formato do conteúdo
+AULA 041: Rodapé, conteúdo periférico e links
+AULA 042: Tornando um vídeo responsivo
+AULA 043: Fim do Módulo 2: Certificados liberados

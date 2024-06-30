@@ -1,0 +1,51 @@
+* CURSO DE HTML5 E CSS3 DO CURSO EM VÍDEO COM O PROFESSOR GUSTAVO GUANABARA
+MÓDULO 3 DE 5 *
+
+AULA 001: O que vamos aprender no módulo 3?
+
+* CAPÍTULO 18 *
+AULA 002: O que é Git e GitHub?
+AULA 003: Instalando Git e GitHub no PC
+AULA 004: Criando conta no GitHub
+AULA 005: Primeiro repositório git e GitHub
+AULA 006: Gerenciando repositórios GitHub
+AULA 007: Hospedando site gratuitamente com GitHub Pages
+AULA 008: Manutenção em sites hospedados no GitHub Pages
+AULA 009: Recursos sociais do GitHub
+AULA 010: Clonando repositórios GitHub
+AULA 011: GitHub em vários PCs
+
+* CAPÍTULO 19 *
+AULA 012: Download das imagens do capítulo
+AULA 013: Colocando uma imagem de fundo no seu site
+AULA 014: Imagens que se repetem no fundo do site
+AULA 015: Configurando a posição da imagem no fundo do site
+AULA 016: Mudando o tamanho da imagem de fundo do site
+AULA 017: background-attachment e shorthand
+AULA 018: Centralização vertical de caixas
+
+* CAPÍTULO 20 *
+AULA 019: Um projeto completo usando HTML e CSS
+AULA 020: Download e organização dos arquivos
+AULA 021: Ajustes no HTML do projeto
+AULA 022: Ajustes no CSS do projeto
+AULA 023: Colocando as fontes ao projeto
+AULA 024: Imagens com efeito Parallax simples
+AULA 025: Hospedando o Projeto Cordel gratuitamente
+
+* CAPÍTULO 21 *
+AULA 026: Ainda podemos usar tabelas em HTML?
+AULA 027: Sua primeira tabela em HTML
+AULA 028: Alinhando o conteúdo em tabelas
+AULA 029: Aprendendo a trabalhar com tabelas grandes
+AULA 030: Caption e Escopo de títulos em tabelas
+AULA 031: Efeito Zebrado na tabela com HTML e CSS
+AULA 032: Cabeçalho fixo em tabelas grandes
+AULA 033: Mesclagem de células
+AULA 034: Desafios (parte 1)
+AULA 035: Exemplo de tabela completa
+AULA 036: Escopos de grupo
+AULA 037: Desafios (parte 2)
+AULA 038: Agrupando colunas com colgroup
+AULA 039: Tabelas responsivas
+AULA 040: Fim do Módulo 3

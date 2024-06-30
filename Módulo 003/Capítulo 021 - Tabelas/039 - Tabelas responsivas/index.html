@@ -13,11 +13,22 @@
             border-collapse: collapse;
         }
 
+        caption {
+            font-weight: bolder;
+            font-size: 20px;
+            padding-bottom: 10px;
+        }
+
         th, td {
             border: 1px solid black;
             padding: 10px;
             text-align: center;
             vertical-align: middle;
+        }
+
+        /* EFEITO ZEBRADO */
+        body div#container table tbody tr:nth-child(even) {
+            background-color: lightgray;
         }
 
         div#container { /* PARA DEIXAR A TABELA RESPONSIVA */
