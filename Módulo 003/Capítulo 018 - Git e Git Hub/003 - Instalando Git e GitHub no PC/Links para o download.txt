@@ -1,0 +1,5 @@
+* LINK PARA BAIXAR O GIT *
+https://git-scm.com/downloads
+
+* LINK PARA BAIXAR O GITHUB DESKTOP *
+https://desktop.github.com/

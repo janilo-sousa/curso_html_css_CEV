@@ -1,0 +1,8 @@
+O professor ao longo de todas estas aulas
+vem preparando o projeto apenas para no final
+aplicar o efeito parallax nas imagens de fundo.
+E é nesta aula que ele definitivamente e finalmente
+aplica este efeito. O efeito é bem simples,
+basicamente conseguimos ele apenas com uma linha:
+
+background-attachment: fixed;

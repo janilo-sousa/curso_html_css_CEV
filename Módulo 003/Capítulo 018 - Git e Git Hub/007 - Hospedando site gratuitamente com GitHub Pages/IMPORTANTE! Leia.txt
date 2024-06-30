@@ -1,0 +1,4 @@
+DICA: você sabia que o site do GitHub fornece um serviço de hospedagem simples para sites
+feitos somente com HTML, CSS e JavaScript chamado GitHub Pages! Aonde você pode hospedar
+seu site, deixar ele disponível na internet para que qualquer pessoa possa acessar e
+compartilhar o link.

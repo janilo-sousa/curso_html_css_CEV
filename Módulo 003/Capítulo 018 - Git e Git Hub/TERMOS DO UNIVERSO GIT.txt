@@ -1,0 +1,29 @@
+* GLOSSÁRIO DO UNIVERSO GIT *
+
+COMMIT: Uma operação no Git que registra uma alteração em um ou mais arquivos no repositório local (ou seja, no seu computador).
+
+PUSH: Enviar as alterações locais(seu computador/repositório local) para um repositório remoto(o GitHub).
+
+FETCH: Baixar alterações de um repositório remoto(Git Hub) para o seu repositório local(seu computador com o Git).
+
+BRANCH: Uma linha(ou ramificação) de desenvolvimento separada dentro de um repositório.
+
+MASTER(OU MAIN BRANCH): A ramificação principal do repositório que geralmente contém o código estável.
+
+MERGE: Mesclar/combinar as alterações de uma branch para outra.
+
+PULL REQUEST(Pedido de Pull): Uma solicitação para mesclar alterações de uma branch para outra em um repositório Git.
+
+FORK (Bifurcação): Uma cópia independente de um repositório Git que permite desenvolvimento paralelo.
+
+CLONE: Fazer uma cópia local de um repositório Git remoto.
+
+ORIGIN: O nome padrão dado ao repositório remoto de onde o repositório local foi clonado.
+
+PULL: Baixar as alterações de um repositório remoto e mesclá-las com o repositório local.
+
+GITIGNORE: Um arquivo que especifica quais arquivos e diretórios devem ser ignorados pelo Git e que não devem entrar no versionamento.
+
+REFLOG: Um registro de todas as mudanças em HEAD e branches no repositório.
+
+ISSUES: É um espaço onde os usuários contribuem ao reportam os problemas/bugs encontrados nas aplicações de outros usuários.

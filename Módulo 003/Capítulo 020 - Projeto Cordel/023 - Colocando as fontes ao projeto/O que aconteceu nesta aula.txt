@@ -1,0 +1,6 @@
+Nesta aula o professor optou por usar
+algumas fontes externas vindas lá do Google Fonts
+para o projeto. Lá ele pegou duas fontes,
+uma para o título do cabeçalho e outra
+no estilo handwriting para simular a escrita
+a mão nos versos do poema.

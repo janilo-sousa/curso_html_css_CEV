@@ -1,0 +1,14 @@
+* O QUE É GIT? *
+
+R.: O Git é um sistema de controle de versão de arquivos;
+em outras palavras, é responsável por guardar o histórico
+de alterações sempre que alguém modificar algum arquivo
+que está sendo monitorado por ele.
+
+===================================================================================
+
+* O QUE É GITHUB? *
+
+R.: O Github é uma “rede social dev” em que é possível
+armazenar e compartilhar projetos de desenvolvimento
+de software.

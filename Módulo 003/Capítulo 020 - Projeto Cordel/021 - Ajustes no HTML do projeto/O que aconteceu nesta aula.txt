@@ -1,0 +1,7 @@
+Nesta aula o professor trabalhou a parte
+do HTML do projeto. Colocou as tags do cabeçalho,
+montou as seções em branco e as seções que iram ficar com
+a imagem de fundo e organizou todo o poema(em formato de septilhas) de Milton Duarte
+dentro de parágrafos e com várias quebras de linhas no versos.
+
+* SEPTILHAS: uma estrofe de um poema que tem sete versos.

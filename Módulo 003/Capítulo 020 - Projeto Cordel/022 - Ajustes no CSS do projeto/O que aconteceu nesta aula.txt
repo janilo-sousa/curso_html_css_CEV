@@ -1,0 +1,6 @@
+Nesta vídeo aula o professor apenas
+trabalhou na parte de estilos em css do projeto.
+Personalizou o cabeçalho e o rodapé e
+as seções em branco e em cinza, esta
+última que mais lá pra frente vai ter uma
+imagem de fundo.

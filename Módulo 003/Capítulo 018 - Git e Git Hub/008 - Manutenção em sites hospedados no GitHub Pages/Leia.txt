@@ -1,0 +1,2 @@
+Nesta video aula o professor faz um ajuste no site do Android, especificamente no cabeçalho onde ocorreu
+um erro e ensinar a fazer manutenção em seus códigos que já estão no GitHub Pages.

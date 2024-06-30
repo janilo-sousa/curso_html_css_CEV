@@ -1,0 +1,2 @@
+Nesta vídeo aula o professor apenas hospeda o projeto Cordel Moderno na internet,
+para todo mundo ver, utilizando o recurso GitHub Pages do site GitHub.

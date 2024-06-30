@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cabeçalho fixo em tabelas grandes verticalmente</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        table {
+            width: 500px;
+            border-collapse: collapse;
+
+            position: relative; /* para deixar o cabeçalho fixo */
+        }
+
+        td, th {
+            border: 1px solid black;
+            padding: 10px;
+        }
+
+        caption {
+            font-size: 1.5em;
+            font-weight: bold;
+            padding: 10px;
+            background-color: lightgray;
+        }
+
+        td.numero {
+            text-align: right;
+            vertical-align: middle;
+        }
+
+        thead, tfoot {
+            background-color: #383838;
+            color: white;
+        }
+
+        thead > tr > th {
+            position: sticky; /* para deixar o cabeçalho fixo */
+            top: -1px; /* para deixar o cabeçalho fixo */
+            background-color: #383838; /* para deixar o cabeçalho fixo */
+        }
+
+        /* EFEITO ZEBRADO EM TABELAS */
+        tbody >tr:nth-child(odd) { /* odd ou 2n - 1 */
+            background-color: white;
+        }
+
+        tbody >tr:nth-child(even) { /* even ou 2n */
+            background-color: lightgray;
+        }
+    </style>
+</head>
+<body>
+    <!-- HIERARQUIA DE TAGS DE TABELAS GRANDES
+        TABLE
+            CAPTION -> legenda explicativa da tabela
+            THEAD (table head/cabeça da tabela)
+                TH (table head/título de tabela)
+                TR
+                TD
+
+            TBODY (table body/corpo da tabela)
+                TH (table head/título de tabela)
+                TR
+                TD
+
+            TFOOT (table foot/rodapé da tabela)
+                TH (table head/título de tabela)
+                TR
+                TD
+
+    -->
+    <h1>Cabeçalho fixo em tabelas grandes verticalmente</h1>
+    <table>
+    <caption>População das unidades federativas do Brasil</caption>
+        <thead>
+            <tr>
+                <th scope="col">Estado</th>
+                <th scope="col" style="width: 50px;">População</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>São Paulo</td>
+                <td class="numero">45.919.049</td>
+            </tr>
+
+            <tr>
+                <td>Minhas Gerais</td>
+                <td class="numero">21.168.791</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+
+            <tr>
+                <td>Rio de Janeiro</td>
+                <td class="numero">17.264.943</td>
+            </tr>
+        </tbody>
+
+        <tfoot>
+            <tr>
+                <th scope="row">Total de Habitantes</th>
+                <td class="numero"><strong>000.000.000</strong></td>
+            </tr>
+        </tfoot>
+    </table>
+
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod deserunt nihil harum ad asperiores, placeat ducimus fugiat facilis aliquam error, accusantium ut distinctio sint tenetur a maxime laboriosam nulla sapiente. Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus autem et eum velit alias fuga veritatis. Quam temporibus vel, facere et soluta autem quidem, enim, odit similique quod quibusdam quia. Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia quo minima eaque excepturi illum ut aspernatur debitis sequi, aut ullam, non saepe! Eligendi, repudiandae! Quis labore similique quibusdam officiis dignissimos. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam sunt similique hic illum, id sint, ratione sed nostrum impedit saepe dolore ducimus totam ea excepturi? Quia commodi reiciendis labore cumque?</p>
+
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod deserunt nihil harum ad asperiores, placeat ducimus fugiat facilis aliquam error, accusantium ut distinctio sint tenetur a maxime laboriosam nulla sapiente. Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus autem et eum velit alias fuga veritatis. Quam temporibus vel, facere et soluta autem quidem, enim, odit similique quod quibusdam quia. Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia quo minima eaque excepturi illum ut aspernatur debitis sequi, aut ullam, non saepe! Eligendi, repudiandae! Quis labore similique quibusdam officiis dignissimos. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam sunt similique hic illum, id sint, ratione sed nostrum impedit saepe dolore ducimus totam ea excepturi? Quia commodi reiciendis labore cumque?</p>
+
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod deserunt nihil harum ad asperiores, placeat ducimus fugiat facilis aliquam error, accusantium ut distinctio sint tenetur a maxime laboriosam nulla sapiente. Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus autem et eum velit alias fuga veritatis. Quam temporibus vel, facere et soluta autem quidem, enim, odit similique quod quibusdam quia. Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia quo minima eaque excepturi illum ut aspernatur debitis sequi, aut ullam, non saepe! Eligendi, repudiandae! Quis labore similique quibusdam officiis dignissimos. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam sunt similique hic illum, id sint, ratione sed nostrum impedit saepe dolore ducimus totam ea excepturi? Quia commodi reiciendis labore cumque?</p>
+
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod deserunt nihil harum ad asperiores, placeat ducimus fugiat facilis aliquam error, accusantium ut distinctio sint tenetur a maxime laboriosam nulla sapiente. Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus autem et eum velit alias fuga veritatis. Quam temporibus vel, facere et soluta autem quidem, enim, odit similique quod quibusdam quia. Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia quo minima eaque excepturi illum ut aspernatur debitis sequi, aut ullam, non saepe! Eligendi, repudiandae! Quis labore similique quibusdam officiis dignissimos. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam sunt similique hic illum, id sint, ratione sed nostrum impedit saepe dolore ducimus totam ea excepturi? Quia commodi reiciendis labore cumque?</p>
+
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod deserunt nihil harum ad asperiores, placeat ducimus fugiat facilis aliquam error, accusantium ut distinctio sint tenetur a maxime laboriosam nulla sapiente. Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus autem et eum velit alias fuga veritatis. Quam temporibus vel, facere et soluta autem quidem, enim, odit similique quod quibusdam quia. Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia quo minima eaque excepturi illum ut aspernatur debitis sequi, aut ullam, non saepe! Eligendi, repudiandae! Quis labore similique quibusdam officiis dignissimos. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam sunt similique hic illum, id sint, ratione sed nostrum impedit saepe dolore ducimus totam ea excepturi? Quia commodi reiciendis labore cumque?</p>
+</body>
+</html>

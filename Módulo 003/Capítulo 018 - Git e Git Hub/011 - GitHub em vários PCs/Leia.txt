@@ -1,0 +1,4 @@
+Nesta video aula o professor ensina como você pode tá usando um PC, que não é o seu pessoal,
+para logar no sistema do GitHub Desktop e poder ter acesso a todos os seus repositórios
+inclusive fazer alterações neles. Depois ele ensina a deslogar sem deixar rastros para a segurança
+da sua conta pessoal.

@@ -1,0 +1,6 @@
+Nesta video aula o professor ensina a como gerenciar repositórios no GitHub.
+
+Note: o GitHub Desktop serve para que possamos criar, gerenciar ou excluir nossos
+repositórios através do mouse e de cliques por intermédio de uma interface gráfica.
+Se não tivessemos optado por usar esse software teríamos que fazer tudo isso através
+do terminal/linha de comando do próprio Git (Git Bash).
