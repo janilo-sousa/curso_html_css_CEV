@@ -26,4 +26,4 @@ GITIGNORE: Um arquivo que especifica quais arquivos e diretórios devem ser ignor
 
 REFLOG: Um registro de todas as mudanças em HEAD e branches no repositório.
 
-ISSUES: É um espaço onde os usuários contribuem ao reportam os problemas/bugs encontrados nas aplicações de outros usuários.
+ISSUES: É um espaço onde os usuários contribuem ao reportar os problemas/bugs encontrados nas aplicações de outros usuários.
