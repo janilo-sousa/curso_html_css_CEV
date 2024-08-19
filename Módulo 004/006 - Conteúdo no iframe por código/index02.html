@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conteúdo no iframe por código</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        iframe#tela {
+            border: 2px solid black;
+            width: 90vw;
+            height: 400px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Conteúdo no iframe por código</h1>
+    <p>Podemos usar o parâmetro 'srcdoc' dos iframes para inserir códigos/tags html para criarmos uma página padrão que será exibida primeiro antes de iniciarmos nossa navegação pelos iframes.</p>
+
+    <ul>
+        <li><a href="paginas_extras/pag_vermelha.html" target="frame">Página vermelha</a></li>
+        <li><a href="paginas_extras/pag_azul.html" target="frame">Página azul</a></li>
+        <li><a href="paginas_extras/pag_amarela.html" target="frame">Página amarela</a></li>
+    </ul>
+
+    <p>Caso sua página padrão for muito complexa é mais recomendável criarmos um novo documento html!</p>
+
+    <iframe frameborder="0" id="tela" name="frame" srcdoc="<h1>Escolha uma das opções acima</h1><p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aperiam deserunt reprehenderit soluta aliquam, suscipit, quisquam totam inventore id tenetur repellendus commodi quo quibusdam. Consectetur est, quod soluta cupiditate architecto pariatur.</p><img src='pordosol.jpg'></img>">
+        Infelizmente, parece que seu navegador não é compatível com iframes!
+    </iframe>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro error, quos consequatur minus amet dolor necessitatibus deserunt pariatur mollitia, voluptates harum voluptatum accusamus cumque quas est ad molestias nihil temporibus!</p>
+</body>
+</html>

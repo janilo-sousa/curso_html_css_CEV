@@ -1,0 +1,7 @@
+1) Os mecanismos de busca tem dificuldade pra ler (ACESSIBILIDADE)
+2) Os softwares leitores de telas(para cegos) tem dificuldade de ler (ACESSIBILIDADE)
+3) Conflito ao pedir pra voltar uma página (USUABILIDADE)
+4) Conflito no target blank (USUABILIDADE)
+5) Você abri uma porta para o seu site para ataques hackers do tipo cross-site scripting ou XSS (SEGURANÇA)
+6) Se o site que você inseriu no seu iframe não for responsível ele irá
+apresentar várias quebras de layout (USUABILIDADE)
