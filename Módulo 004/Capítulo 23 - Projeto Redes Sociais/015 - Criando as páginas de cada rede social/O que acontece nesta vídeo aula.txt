@@ -1,0 +1,3 @@
+Nesta vídeo aula o professor Gustavo Guanabara trabalha para exibir todas as telas de suas
+redes sociais, em formato de imagens, dentro do iframe do celular. Aqui ele utiliza um css
+universal para todas as páginas html das redes sociais.
