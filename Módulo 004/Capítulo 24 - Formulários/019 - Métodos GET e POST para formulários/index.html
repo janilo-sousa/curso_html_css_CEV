@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Método GET e POST</title>
+    <style>
+        * {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <!--
+        * MÉTODO GET:
+            - mais rápido
+            - limite de até 3.000 bytes (aproximadamente 3.000 caracteres)
+            - mostra os dados na url
+            - não envia foto ou vídeo
+            - não use para dados sensíveis (como senhas)
+
+        * MÉTODO POST:
+            - mais lento
+            - sem limite de memória
+            - não mostra os dados na url
+            - pode enviar fotos ou vídeos
+            - use para dados sensíveis (estude https)
+    -->
+    <h1>Diferenças entre o método GET e POST</h1>
+    <form action="cadastro.php" method="post" autocomplete="off">
+        <p>
+            <label for="inome">Nome:</label>
+            <input type="text" name="nome" id="inome">
+        </p>
+
+        <p>
+            <label for="isobrenome">Sobrenome:</label>
+            <input type="text" name="sobrenome" id="isobrenome">
+        </p>
+
+        <p>
+            <input type="submit" value="Enviar">
+        </p>
+    </form>
+</body>
+</html>
