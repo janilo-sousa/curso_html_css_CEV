@@ -1,0 +1,4 @@
+Sempre teste os elementos de formulários que você vai criando nos outros navegadores,
+Chrome, Edger, Safari, Opera, Brave, entre outros
+pois eles podem assumir comportamentos diferentes ou até mesmo nem ser compatível,
+tendo que você adotar outra estratégia!

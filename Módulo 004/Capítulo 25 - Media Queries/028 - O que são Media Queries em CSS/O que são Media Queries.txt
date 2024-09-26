@@ -1,0 +1,1 @@
+São arquivos separados de CSS que vão adaptar o conteúdo de acordo com o tamanho da tela!
