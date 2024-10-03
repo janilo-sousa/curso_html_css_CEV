@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu responsivo com HTML5 e CSS3</title>
+    <link rel="stylesheet" href="estilos/style.css">
+    <link rel="stylesheet" href="estilos/media-query.css">
+
+    <!-- Google Icons -->
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
+</head>
+<body onresize="mudouTamanho()"> <!-- js que monitora o redimensionamento da janela do navegador -->
+    <header>
+        <h1>Meu Site</h1>
+        <span id="burguer" class="material-symbols-outlined" onclick="clickMenu()" >menu</span>
+        <menu id="itens">
+            <ul>
+                <li><a href="#">Opção 1</a></li>
+                <li><a href="#">Opção 2</a></li>
+                <li><a href="#">Opção 3</a></li>
+                <li><a href="#">Opção 4</a></li>
+                <li><a href="#">Opção 5</a></li>
+            </ul>
+        </menu>
+    </header>
+    <main>
+        <article>
+            <h2>Testando Media Queries</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus nostrum magni ipsum! Illum delectus sequi ea quam doloremque earum fugit reprehenderit, eaque cumque a mollitia unde rem tempora libero officia. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas ducimus consequuntur repellat earum deserunt dolor aperiam delectus temporibus beatae! Dignissimos veniam architecto aut? Et at soluta exercitationem illo, eos voluptate.</p>
+
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus nostrum magni ipsum! Illum delectus sequi ea quam doloremque earum fugit reprehenderit, eaque cumque a mollitia unde rem tempora libero officia. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas ducimus consequuntur repellat earum deserunt dolor aperiam delectus temporibus beatae! Dignissimos veniam architecto aut? Et at soluta exercitationem illo, eos voluptate.</p>
+
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus nostrum magni ipsum! Illum delectus sequi ea quam doloremque earum fugit reprehenderit, eaque cumque a mollitia unde rem tempora libero officia. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas ducimus consequuntur repellat earum deserunt dolor aperiam delectus temporibus beatae! Dignissimos veniam architecto aut? Et at soluta exercitationem illo, eos voluptate.</p>
+        </article>
+    </main>
+
+    <script>
+        function clickMenu() {
+            if (itens.style.display == 'block') {
+                itens.style.display = 'none';
+
+            } else {
+                itens.style.display = 'block'; /* se você for pegar um elemento html via js através do id você pode escrever direto o nome do id do elemento. Sem ter que usar o comando 'getElementById()' */
+            }
+
+        }
+
+        function mudouTamanho() {
+            if (window.innerWidth >= 768) {
+                itens.style.display = 'block';
+            } else {
+                itens.style.display = 'none';
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+Mobile First é uma metodologia desenvolvida por Luke Wroblewski que
+consiste em desenvolver primeiramente o site para a versão Mobile
+e depois para os outros tipos de tela.
+
+VANTAGENS:
+* Maior indexação nos mecanismos de busca;
+
+* Site mais leve para a versão móvel
+	melhorando a acessibilidade em locais com net precária;
+
+* Maior produtividade no hora do desenvolvimento.

@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+/* Configurações de estilos gerais */
+@media all {
+    * {
+        margin: 0px;
+        padding: 0px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    html, body {
+        width: 100vw;
+        height: 100vh;
+        background-color: #233eff;
+    }
+    
+    h1 {
+        color: white;
+        text-shadow: 2px 2px 0px #142392;
+        padding: 10px;
+    }
+}
+
+/* configurações css para o modo retrato */
+@media screen and (orientation: portrait) {
+    body {
+        background-color: darkgreen;
+    }
+}
+
+/* configurações css para o modo paisagem */
+@media screen and (orientation: landscape) {
+    body {
+        background-color: red;
+    }
+}
